@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
   
-## 🛠 Connect with me:
+## 📱 Connect with me:
  
 <div>  
   <a href="https://www.linkedin.com/in/ivan-sp-000471183" target="_self">
