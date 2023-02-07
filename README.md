@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Ivantroski <a>
+<h1 align="center">Hi! I'm Ivantroski <a>
   <a href="https://github.com/Ivantroski" target="_self">
     <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="50" > 
 	</a>
